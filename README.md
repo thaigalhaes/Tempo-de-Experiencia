@@ -8,7 +8,7 @@
  - Digite seu tempo de experiência (anos).
 
 ## Categorias:
-- Trainee: <=2.
-- Junior: <=5.
-- Pleno: <=9.
-- Sênior: >=10.
+- Trainee: até 2 anos.
+- Junior: 3 - 5 anos.
+- Pleno: 6 - 9 anos.
+- Sênior: a partir de 10 anos.
